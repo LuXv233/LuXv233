@@ -1,8 +1,8 @@
 <pre>
 <span style="color:cyan;">,--,                                        </span>
 <span style="color:cyan;">,---.'|                                        </span>     
-<span style="color:cyan;">|   | :                  ,--,     ,--,         </span>
-<span style="color:cyan;">:   : |                  |'. \   / .`|         </span>     <span style="color:lightgreen;">luxv@github.local</span>
+<span style="color:cyan;">|   | :                  ,--,     ,--,         </span>     <span style="color:lightgreen;">luxv@github.local</span>
+<span style="color:cyan;">:   : |                  |'. \   / .`|         </span>
 <span style="color:cyan;">|   ' :            ,--,  ; \ `\ /' / ;         </span>     <span style="color:yellow;">===================================</span>
 <span style="color:cyan;">;   ; '          ,'_ /|  `. \  /  / .'   .---. </span>     <span style="color:magenta;">OS:</span>  <span style="color:white;">Human v25s (Still Updating...)</span>
 <span style="color:cyan;">'   | |__   .--. |  | :   \  \/  / ./  /.  ./| </span>     <span style="color:magenta;">Host:</span> <span style="color:white;">Brain (Overclocked)</span>
